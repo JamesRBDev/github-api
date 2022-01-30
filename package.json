@@ -1,0 +1,17 @@
+{
+  "name": "github-api",
+  "version": "1.0.0",
+  "description": "A REST API for Github using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "James Boehme",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
